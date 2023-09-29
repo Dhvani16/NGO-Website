@@ -29,3 +29,4 @@ export const Team = (props) => {
     </div>
   )
 }
+export default Team;

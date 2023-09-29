@@ -14,9 +14,10 @@ export const Navigation = (props) => {
             <span className='icon-bar'></span>{' '}
             <span className='icon-bar'></span>{' '}
             <span className='icon-bar'></span>{' '}
+            <span className='icon-bar'></span>{' '}
           </button>
           <a className='navbar-brand page-scroll' href='#page-top'>
-            Blumen Charity
+            FundHub
           </a>{' '}
         </div>
 
@@ -25,19 +26,26 @@ export const Navigation = (props) => {
           id='bs-example-navbar-collapse-1'
         >
           <ul className='nav navbar-nav navbar-right'>
-            <li>
-              <a href='#features' className='page-scroll'>
-                Features
-              </a>
-            </li>
+          
             <li>
               <a href='#about' className='page-scroll'>
                 About
               </a>
             </li>
+            
             <li>
               <a href='#services' className='page-scroll'>
                 Join
+              </a>
+            </li>
+            <li>
+              <a href='#FundraisingProgressBar' className='page-scroll'>
+                Progress
+              </a>
+            </li>
+            <li>
+              <a href='#GalleryPage' className='page-scroll'>
+                Gallery
               </a>
             </li>
             <li>

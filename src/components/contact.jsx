@@ -150,7 +150,7 @@ export const Contact = (props) => {
       <div id='footer'>
         <div className='container text-center'>
           <p>
-            &copy; 2021 Blumen Charity. Made with{' '}
+            &copy; 2023 FundHub. Made with{' '}
             <i class="fa fa-heart" aria-hidden="true"></i>
           </p>
         </div>

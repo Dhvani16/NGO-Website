@@ -2,47 +2,43 @@
     "Header": {
 
         "title": "MAKE A CHANGE",
-        "text": "Food is being wasted at an alarming rate. And we - consumers - are the largest source of it. More than grocery stores and restaurants combined. But there's good news: we can do something about it. Everything we need is right here (and in our fridges)."
+        "text": " Join Us in Raising Funds to Support the Less Fortunate"
     },
     "About": {
-        "paragraph": "Our aim is to redistribute surplus food and water to the individuals who are needing it. If any event like a wedding or party has excess of food and water it will be collected from that location and distributed among the people who need it in the nearest area through our project. Thus this would prevent wastage of food and water and would also benefit the weaker section of the society who are unable to afford these meals..",
+        "paragraph": "At Fundraising Hub, we are dedicated to making a positive impact on the world by providing a platform that connects passionate individuals and organizations with the resources they need to raise funds for important causes.",
         "Why": [
-            "One-stop Solution",
-            "Guaranteed Delivery",
-            "Easy Availability",
-            "Government Approved"
+            "Easy-to-use tools for creating and managing fundraising campaigns",
+            "Secure and transparent donation processing"
         ],
         "Why2": [
-            "Saving Food",
-            "Helping the Needy",
-            "NGOs approved",
-            "Clean Drinking Water"
+            "Real-time tracking of campaign progress and funds raised",
+            "Dedicated customer support to assist you every step of the way"
         ]
     },
     "Services": [{
-            "link": "https://forms.gle/bJQgECDYohMx4twA9",
+            "link": "https://docs.google.com/forms/d/e/1FAIpQLSdjJy6Be9ZmlF9RgCpcV7ciTpiMsE6PlDAVTo6_09Ci8mx3ng/viewform?usp=pp_url",
             "icon": "fa fa-credit-card",
-            "name": "Donate",
-            "text": "India wastes nearly 67 million and It amounts to Rs93,000 cr worth of food, which means it can feed the most populous state of Bihar for a complete year."
+            "name": "User",
+            "text": "Want to help someone in need around you without without donating .Fill out the form ,so we can reach out to them."
         },
         {
-            "link": "https://forms.gle/ZQL35B5tRPpFjQAE7",
+            "link": "https://docs.google.com/forms/d/e/1FAIpQLSdenGpr8hmTW7Kr7wVY0MEIoG7FBNr9KqPr_2dtC2RuaBAzYQ/viewform?usp=pp_url",
             "icon": "fa fa-lightbulb-o",
             "name": "Volunteer",
-            "text": "By volunteering with us, you are helping to pack and distribute meals to thousands of beneficiary and help to end hunger. Duties can be from picking up food items, packing and redistributing."
+            "text": "Want to part of out organization and be a helping hand"
         },
         {
-            "link": "https://forms.gle/gEVBqaBkNx6HqnSk9",
+            "link": "https://docs.google.com/forms/d/e/1FAIpQLSezgpX2e6MwRrKBazWu39BBXwMafY_YFQQtCH4OqRnvAFeDBQ/viewform?usp=pp_url",
             "icon": "fa fa-wheelchair",
-            "name": "Request Help",
-            "text": "All of us need help sometimes. Now, more than ever, Blumne Charity is here to help you get access to food and clean drinking water."
+            "name": "Donor",
+            "text": "Even a little amount will be charity to poor.We can reach out to you through the details in the form ,for easy donation."
         }
     ],
 
     "Contact": {
         "address": "XXXXXXXX ",
         "phone": "XXXXXXXX",
-        "email": "ngowebsite@company.com",
+        "email": "FundHub@company.com",
         "facebook": "fb.com",
         "twitter": "twitter.com",
         "youtube": "youtube.com"
