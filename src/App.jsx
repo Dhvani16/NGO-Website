@@ -38,23 +38,23 @@ const App = () => {
       <Services data={landingPageData.Services} />
       <h1><center>Fundraising Campaigns</center></h1><br></br>
 
-      <div style={{ marginLeft: '20px' }}>
+      <div style={{ marginLeft: '30px' }}>
         <h3>Vaccination Campaign</h3>
       </div>
       <FundraisingProgressBar raisedAmount={8000} goalAmount={10000} />
-      <div style={{ marginLeft: '20px' }}>
+      <div style={{ marginLeft: '30px' }}>
         <h3>Livestock and Agriculture Campaign</h3>
       </div>
       <FundraisingProgressBar raisedAmount={7500} goalAmount={15000} />
-      <div style={{ marginLeft: '20px' }}>
+      <div style={{ marginLeft: '30px' }}>
         <h3>Nutrition and Food Security</h3>
       </div>
       <FundraisingProgressBar raisedAmount={3000} goalAmount={8000} />
-      <div style={{ marginLeft: '20px' }}>
+      <div style={{ marginLeft: '30px' }}>
         <h3>Direct Aid Programs</h3>
       </div>
       <FundraisingProgressBar raisedAmount={2000} goalAmount={5000} />
-      <div style={{ marginLeft: '20px' }}>
+      <div style={{ marginLeft: '30px' }}>
         <h3>Microenterprise Development</h3>
       </div>
       <FundraisingProgressBar raisedAmount={4000} goalAmount={15000} /><br></br>
