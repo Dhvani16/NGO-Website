@@ -7,18 +7,20 @@ const FundraisingProgressBar = ({ raisedAmount, goalAmount }) => {
   const progress = (raisedAmount / goalAmount) * 100;
 
   return (
-    <div className="fundraising-progress-bar">
-      <div className="progress-bar">
-        <div
-          className="progress"
-          style={{ width: `${progress}%` }}
-        ></div>
-      </div>
-      <div className="progress-info">
-        <span>
-          Raised: ${raisedAmount} of ${goalAmount}
-        </span>
-        <span>{progress.toFixed(2)}%</span>
+    <div id='FundraisingProgressBar'>
+      <div className="fundraising-progress-bar">
+        <div className="progress-bar">
+          <div
+            className="progress"
+            style={{ width: `${progress}%` }}
+          ></div>
+        </div>
+        <div className="progress-info">
+          <span>
+            Raised: ${raisedAmount} of ${goalAmount}
+          </span>
+          <span>{progress.toFixed(2)}%</span>
+        </div>
       </div>
     </div>
   );

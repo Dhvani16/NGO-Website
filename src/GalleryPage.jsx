@@ -19,9 +19,11 @@ function GalleryPage() {
   ];
 
   return (
-    <div className="gallery-page">
-      <h1>Gallery Page</h1>
-      <Gallery images={images} />
+    <div id= 'GalleryPage'>
+      <div className="gallery-page">
+        <h1>Gallery Page</h1>
+        <Gallery images={images} />
+      </div>
     </div>
   );
 }
